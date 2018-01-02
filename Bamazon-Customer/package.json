@@ -1,0 +1,19 @@
+{
+  "name": "bamazon-customer",
+  "version": "1.0.0",
+  "description": "SMU Homework assignment # Node.js & MySQL",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drbrown01/Bamazon.git"
+  },
+  "author": "Dan Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drbrown01/Bamazon/issues"
+  },
+  "homepage": "https://github.com/drbrown01/Bamazon#readme"
+}
